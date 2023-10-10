@@ -1,6 +1,3 @@
-[![An image of @neel07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/neel07)](https://holopin.io/@neel07)
-
-
 <h1 align="left">👋 Hey, I'm Neel!</h1>
 
 ###
@@ -48,6 +45,9 @@
   <img width="12" />
   
 </div>
+###
+
+[![An image of @neel07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/neel07)](https://holopin.io/@neel07)
 
 ###
 
