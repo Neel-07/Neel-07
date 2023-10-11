@@ -1,4 +1,11 @@
-<h1 align="left">👋 Hello there, I'm Neel!</h1>
+<p align="center">
+  <img width="800" alt="Banner" src="https://github.com/Neel-07/Neel-07/assets/112561276/bf755e63-b0e2-44b5-97a3-1cf29cf36646">
+</p>
+<h1 align="center">👋 Hello there, I'm Neel Mishra!</h1>
+<p align="center">
+<a href="https://www.linkedin.com/in/neelmishra07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/neelmishra07" height="30" width="40" /></a>
+<a href="https://twitter.com/neelmis35789692" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/neelmis35789692" height="35" width="50" /></a>
+</p>
 
 ###
 
@@ -6,7 +13,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">🙋 About me</h2>
 
 ###
 
@@ -14,7 +21,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">🛠️ Languages and Tools</h2>
 
 ###
 
@@ -54,7 +61,9 @@
 
 
 ###
-<h2 align="left"></h2>
+<h2 align="left">📈 Github Stats</h2>
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=neel-07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
@@ -70,3 +79,7 @@
   <img src="https://profile-counter.glitch.me/neel-07/count.svg?"  />
 </div>
 
+###
+<div align="center">
+   <p>If you 💙 my projects, give them a 🌟 and share them 😊</p>
+</div>
