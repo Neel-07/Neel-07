@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hey, I'm Neel!</h1>
+<h1 align="left">👋 Hello there, I'm Neel!</h1>
 
 ###
 
@@ -51,7 +51,10 @@
 
 [![An image of @neel07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/neel07)](https://holopin.io/@neel07)
 
+
+
 ###
+<h2 align="left"></h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=neel-07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
