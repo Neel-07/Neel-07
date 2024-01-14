@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">🚀 Welcome to my code playground. I'm a B.Tech 3rd Year student from India, where every line of code brings ideas to life. 👨‍💻 Let's build something amazing together!</p>
+<p align="left">🚀 Welcome to my code playground. 👨‍💻 Let's build something amazing together!</p>
 
 ###
 
