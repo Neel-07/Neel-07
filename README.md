@@ -4,7 +4,7 @@
 <h1 align="center">👋 Hello there, I'm Neel Mishra!</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/neelmishra07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/neelmishra07" height="30" width="40" /></a>
-<a href="https://twitter.com/neelmis35789692" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/neelmis35789692" height="35" width="50" /></a>
+<a href="https://twitter.com/Neel_M7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/neelmis35789692" height="35" width="50" /></a>
 </p>
 
 ###
