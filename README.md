@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="800" alt="Banner" src="https://github.com/Neel-07/Neel-07/assets/112561276/bf755e63-b0e2-44b5-97a3-1cf29cf36646">
-</p>
+
 <h1 align="center">👋 Hello there, I'm Neel Mishra!</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/neelmishra07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/neelmishra07" height="30" width="40" /></a>
