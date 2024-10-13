@@ -60,7 +60,7 @@
 </div>
 
 ###
-<h2 align="left">HACKTOBERFEST-23</h2>
+<h2 align="left">HACKTOBERFEST-BADGES (2023,2024)</h2>
 
 [![An image of @neel07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/neel07)](https://holopin.io/@neel07)
 
