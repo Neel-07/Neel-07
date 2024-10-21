@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">📚 Currently Learning: Rust Programming Language<br>🎯 Goals: Crafting impactful software solutions.<br>🎲 Fun Fact: I enjoy unconventional tech projects.</p>
+<p align="left">📚 Currently Learning: Web3<br>🎯 Goals: Crafting impactful software solutions.<br>🎲 Fun Fact: I enjoy unconventional tech projects.</p>
 
 ###
 
